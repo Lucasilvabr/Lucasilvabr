@@ -2,8 +2,7 @@
 
 - 📚 Estudando: Análise e Desenvolvimento de Sistemas
 
-- 📫 linkedin.com/in/lucas-silva-b64632152/  ou
-                       lucas.silva_br@hotmail.com
+- 📫 lucas.silva_br@hotmail.com
 
 <div>
   <a href="https://github.com/Lucasilvabr">
@@ -15,7 +14,6 @@
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Luca-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Lucas-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="right" src="estecomputador/imagens/yoda.gif" height="30" width="40" />
 </div>
 
   ##
