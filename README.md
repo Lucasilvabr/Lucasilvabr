@@ -4,6 +4,10 @@
 
 - 📫 lucas.silva_br@hotmail.com
 
+- ## Acesse meu portfólio pelo link:
+
+https://lucasilvabr.github.io/Portfolio-Profile/Index.html
+
 <div>
   <a href="https://github.com/Lucasilvabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasilvabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
