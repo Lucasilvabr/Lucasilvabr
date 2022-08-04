@@ -4,9 +4,9 @@
 
 - 📫 lucas.silva_br@hotmail.com
 
-- ## Acesse meu portfólio pelo link:
 
-https://lucasilvabr.github.io/Portfolio-Profile/Index.html
+
+- ## Acesse meu portfólio pelo link: https://lucasilvabr.github.io/Portfolio-Profile/Index.html
 
 <div>
   <a href="https://github.com/Lucasilvabr">
